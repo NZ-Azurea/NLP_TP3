@@ -22,15 +22,15 @@
    ```
 3. Install the dependencies:
 
-  ```bash
-   pip install -r requirements.txt
-  ```
+     ```bash
+      pip install -r requirements.txt
+     ```
 
 ### To run the code 
 
 (In your repository)
 
-  ```bash
-   jupyter notebook
-   ```
+     ```bash
+      jupyter notebook
+      ```
 
