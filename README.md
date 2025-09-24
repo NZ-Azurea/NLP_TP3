@@ -20,8 +20,6 @@
    source venv/bin/activate   # On Linux / macOS
    venv\Scripts\activate      # On Windows
   ```
-
-
 3. Install the dependencies:
 
   ```bash
