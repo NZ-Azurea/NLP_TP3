@@ -13,7 +13,7 @@
    ```bash
    git clone https://github.com/NZ-Azurea/NLP_TP3.git
    ```
-2.Create a virtual environment (recommended):
+2. Create a virtual environment (recommended):
 
   ```bash
 python -m venv venv
@@ -21,7 +21,7 @@ source venv/bin/activate   # On Linux / macOS
 venv\Scripts\activate      # On Windows
   ```
 
-3.Install the dependencies:
+3. Install the dependencies:
 
   ```bash
 pip install -r requirements.txt
