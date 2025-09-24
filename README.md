@@ -15,22 +15,22 @@
    ```
 2. Create a virtual environment (recommended):
 
-  ```bash
-python -m venv venv
-source venv/bin/activate   # On Linux / macOS
-venv\Scripts\activate      # On Windows
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # On Linux / macOS
+   venv\Scripts\activate      # On Windows
   ```
 
 3. Install the dependencies:
 
   ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
   ```
 ### To run the code 
 
 (In your repository)
 
   ```bash
-jupyter notebook
-```
+   jupyter notebook
+   ```
 
