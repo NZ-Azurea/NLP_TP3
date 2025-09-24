@@ -21,11 +21,13 @@
    venv\Scripts\activate      # On Windows
   ```
 
+
 3. Install the dependencies:
 
   ```bash
    pip install -r requirements.txt
   ```
+
 ### To run the code 
 
 (In your repository)
